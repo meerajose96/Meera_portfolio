@@ -21,6 +21,25 @@ I bring a versatile approach to data storytelling, stakeholder engagement, and t
 - **Bcom in Computer Applications**  
   *Yuvakshetra Institute of Management Studies (2014 – 2017)*
 
+## 🧠 Tools & Skills  
+![Power BI](https://img.shields.io/badge/-Power%20BI-239120?logo=Power-BI&logoColor=white) 
+![MS Excel](https://img.shields.io/badge/-Excel-217346?logo=Microsoft-Excel&logoColor=white) 
+![SQL](https://img.shields.io/badge/-SQL-CC2927?logo=MySQL&logoColor=white) 
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=Tableau&logoColor=white) 
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white)  
+
+---
+
+## 🎯 Interests  
+📊 Dashboard Design
+
+🎬 Movies
+
+📚 Reading
+
+🎒 Traveling
+
+
 ## 📫 Contact Details  
 *Let’s connect and see how we can make a difference together!*  
 
