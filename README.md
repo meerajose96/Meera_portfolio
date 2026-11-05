@@ -1,5 +1,6 @@
 # Hi, I'm Meera
 **Data Analyst | Excel - Power BI - SQL - Python - Tableau**
+
 **Transforming Insights into Impact**
 
 <!--Section 1: Introduction-->
@@ -20,7 +21,7 @@ I bring a versatile approach to data storytelling, stakeholder engagement, and t
 - **Bcom in Computer Applications**  
   *Yuvakshetra Institute of Management Studies (2014 – 2017)*
 
-  ## 📫 Contact Details  
+## 📫 Contact Details  
 *Let’s connect and see how we can make a difference together!*  
 
 <table>
