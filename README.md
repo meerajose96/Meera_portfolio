@@ -1,8 +1,5 @@
 # Hi, I'm Meera
 **Data Analyst | Excel - Power BI - SQL - Python - Tableau | Transforming Insights into Impact**
-![image](Excel_dashboard.png)
-
-[Linkedin](https://www.linkedin.com/in/meerajose96/)
 
 <!--Section 1: Introduction-->
 
@@ -20,4 +17,33 @@ I bring a versatile approach to data storytelling, stakeholder engagement, and t
 - **MBA in Finance and Systems**  
   *LEAD College of Management (2018 – 2020)*
 - **Bcom in Computer Applications**  
-  *Yuvakshetra Institute of Management Studies (2014 – 2017)* 
+  *Yuvakshetra Institute of Management Studies (2014 – 2017)*
+
+  ## 📫 Contact Details  
+*Let’s connect and see how we can make a difference together!*  
+
+<table>
+  <tbody>
+    <tr>
+      <td>📧</td>
+      <td><a href="mailto:meeramariyaa@gmail.com">meeramariyaa@gmail.com</a></td>
+    </tr>
+    <tr>
+      <td>📞</td>
+      <td>(+91) 7902280596</td>
+    </tr>
+    <tr>
+      <td>📍</td>
+      <td>Palakkad, Kerala</td>
+    </tr>
+    <tr>
+      <td>⬇️</td>
+      <td><a href="Boniface_Data_Analyst.pdf">Download my CV</a></td>
+    </tr>
+    <tr>
+      <td>🌐</td>
+      <td><a href="https://www.linkedin.com/in/meerajose96">Let’s connect on LinkedIn</a></td>
+    </tr>
+  </tbody>
+</table>
+
