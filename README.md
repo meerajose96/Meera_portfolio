@@ -1,5 +1,6 @@
 # Hi, I'm Meera
-**Data Analyst | Excel - Power BI - SQL - Python - Tableau | Transforming Insights into Impact**
+**Data Analyst | Excel - Power BI - SQL - Python - Tableau 
+Transforming Insights into Impact**
 
 <!--Section 1: Introduction-->
 
